@@ -1,0 +1,11 @@
+body{
+     background: yellowgreen;
+}
+.fileContent {
+    width: 320px;
+    height: 480px;
+    border: 3px solid red;
+}
+#btn{
+     width: 120px;
+}
